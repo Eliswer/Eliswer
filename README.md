@@ -1,4 +1,5 @@
 ## <h1 align="center"> Hi, I am Eliška Šindelářová 👋 </h1>
+<p align='center'>A passionate front end developer<p/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
