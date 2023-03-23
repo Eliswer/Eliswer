@@ -14,9 +14,8 @@
 
 <div align="center">
   <h2>Skills:</h2>
-  <img src="https://tenor.com/view/coding-gif-25183725" width="400" height="200"/>
+  <img src="https://tenor.com/bRPBh.gif" width="400" height="200"/>
 </div>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
