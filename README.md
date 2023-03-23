@@ -12,10 +12,7 @@
 - 💁‍♀️ My personal portfolio: **{finishedPortfolioHere}**
 - 👩‍💻 I am curently working on: programming everyday to reach my goals and extend my skills
 
-<div align="center">
-  <h2>Skills:</h2>
-  <img src="https://tenor.com/bRPBh.gif" width="400" height="200"/>
-</div>
+ <h2>Skills:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
