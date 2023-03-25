@@ -7,10 +7,11 @@
 
 ##
 
-- 📧 How to reach me: sindelarovaeliska.webdev@gmail.com
-- 📄 My experiences: **{linkedinHere}**
-- 💁‍♀️ My personal portfolio: **{finishedPortfolioHere}**
-- 👩‍💻 I am curently working on: programming everyday to reach my goals and extend my skills
+- 📧 **How to reach me: sindelarovaeliska.webdev@gmail.com
+- 📄 **My experiences:** {linkedinHere}
+- 💁‍♀️ **My personal portfolio:** {finishedPortfolioHere}
+- 👩‍💻 **I am curently working on:** programming everyday to reach my goals and extend my skills
+- 🔎 **Technologies I focus on:** React, Redux, Next.JS
 
  <h2>Skills:</h2>
  
