@@ -7,7 +7,7 @@
 
 ##
 
-- 📧 **How to reach me:** sindelarovaeliska.webdev@gmail.com
+- 📧 **How to reach me:** {tbd.}
 - 📄 **My experiences:** {tbd.}
 - 💁‍♀️ **My personal portfolio:** {tbd.}
 - 👩‍💻 **I am curently working on:** programming everyday to reach my goals and extend my skills
